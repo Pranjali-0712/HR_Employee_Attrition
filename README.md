@@ -131,9 +131,11 @@ The dataset contains employee-related information such as:
 ```text
 HR-Employee-Attrition-Dashboard/
 │
-├── SCT_DS_2_HR_Employee_Attrition_Dashboard.pbix
-├── dashboard.png
-└── README.md
+├── 📊 SCT_DS_2_HR_Employee_Attrition_Dashboard.pbix
+├── 📁 dataset/
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── 🖼️ dashboard.png
+└── 📄 README.md
 
 ````
 
