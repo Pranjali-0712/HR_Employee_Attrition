@@ -134,3 +134,29 @@ HR-Employee-Attrition-Dashboard/
 ├── SCT_DS_2_HR_Employee_Attrition_Dashboard.pbix
 ├── dashboard.png
 └── README.md
+
+````
+
+## 🚀 How to Use
+Download the .pbix Power BI file.
+Open it using Microsoft Power BI Desktop.
+Use the interactive filters to explore employee attrition.
+Select different departments, age groups, or genders to analyze changes in the dashboard.
+
+```
+````
+## 📌 Conclusion
+
+This Power BI dashboard provides an interactive way to analyze employee attrition and identify patterns related to department, age, job role, overtime, and gender.
+
+The analysis can help organizations better understand employee turnover and identify areas where employee retention strategies may be needed.
+
+````
+````
+## 👩‍💻 Author
+
+Pranjali Tiwari
+
+Computer Science & Engineering Student.
+`````
+
