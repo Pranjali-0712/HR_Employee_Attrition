@@ -79,7 +79,7 @@ SCT_DS_2_HR_Employee_Attrition/
 ├── SCT_DS_2_HR_Employee_Attrition_Dashboard.pbix
 ├── dashboard.png
 └── README.md
-
+`````
 ## Conclusion
 
 This interactive Power BI dashboard provides a clear view of employee attrition and helps identify the departments, age groups, job roles, and working conditions associated with employee turnover.
@@ -88,6 +88,6 @@ The dashboard can help HR teams understand employee attrition patterns and make 
 
 ## Author
 
-**Pranjali Tiwari**
+Pranjali 
 
 Computer Science & Engineering Student
